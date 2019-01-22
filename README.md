@@ -1,2 +1,2 @@
 # dotnetcore-cap
-[CAP](https://github.com/dotnetcore/CAP) python implementation. [Experimental !!!]
+[CAP](https://github.com/dotnetcore/CAP) eventbus python implementation. [Experimental !!!]
